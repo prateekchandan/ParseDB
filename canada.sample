@@ -1,0 +1,38 @@
+Application:	application date
+Ammount:	requested_amount
+
+Name:	tittle first_name last_name
+SIN:	sin
+DOB:	birth_date
+
+Address:	address
+city, province
+postcode
+
+Phone:	home_phone
+Mobile:	cell_phone
+work:	work_phone
+
+E-Mail:	email
+
+Res Type:	own_home
+Residence:	address_length_months
+
+Status:	income_type
+
+Employer:	employer
+Tittle:	job_tittle
+Address:	employer_address
+employer_city, employer_province
+employer_postcode
+
+Length:	employed_months
+Income:	monthly_income
+Paid:	pay_frequency
+
+Bank:	Bank_name
+Institution:	bank_institution
+Transit:	bank_branch_number
+Account:	bank account number
+Account Type:	bank_account_type
+Account Age:	Bank_account_length_months

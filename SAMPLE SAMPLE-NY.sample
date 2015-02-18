@@ -1,0 +1,39 @@
+Application:	application_date
+Ammount:	amount_requested
+
+Name:		first_name last_name
+SSN:		ssn
+DOB:		dob
+
+DL#:		drivers_license_number
+DL state:	drivers_license_state
+
+Address:	address1 address2
+		city, state
+		zip
+
+Phone:		phone_home
+Mobile:		phone_cell
+work:		phone_work
+
+E-Mail:		email
+
+Res Type:	residence_type
+Residence:	move_in_date
+
+Status:		employment_status
+
+Employer:	employer_name
+Tittle:		job_tittle
+Hired:		hire_date
+
+Income:		net_income
+Paid:		pay_frequency
+
+Bank:		Bank_name
+Routing:	routing_number
+Account:	account_number
+Account Type:	bank_account_type
+Account Age:	Bank_account_length_months
+
+IP:		ip_address
