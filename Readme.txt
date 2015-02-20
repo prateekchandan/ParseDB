@@ -8,3 +8,6 @@ A linux shell script (Perl/Python) to do the following
 
 
 The following are the headers of the .XLS/CSV file
+
+Requirements:
+sudo pip install xlrd
