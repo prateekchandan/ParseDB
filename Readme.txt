@@ -10,4 +10,6 @@ A linux shell script (Perl/Python) to do the following
 The following are the headers of the .XLS/CSV file
 
 Requirements:
+Python2.7
+python-p
 sudo pip install xlrd
