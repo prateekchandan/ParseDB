@@ -42,7 +42,6 @@ def from_excel(file_name):
             except Exception, e:
                 pass
             
-
         r = [str(v) for v in r]
         create_data(r)
         

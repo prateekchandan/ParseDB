@@ -40,8 +40,7 @@ def from_excel(file_name):
             try:
                 r[j] = int(r[j])
             except Exception, e:
-                pass
-            
+                pass        
 
         r = [str(v) for v in r]
         create_data(r)
@@ -94,7 +93,6 @@ def create_data(oldrow):
     f.write("Account:\t"+row[25]+"\r\n")
     f.write("Account Type:\t"+row[28]+"\r\n")
     f.write("Account Age:\t"+row[26]+"\r\n")
-
 
 
 if len(sys.argv) < 3:
